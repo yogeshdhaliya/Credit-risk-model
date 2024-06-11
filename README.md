@@ -3,8 +3,8 @@
 This repository contains the code and notebooks used to build a credit risk prediction model for loan eligibility assessment.
 
 Project Goals:
-• Develop a model to predict loan approval category (P1-P4 representing risk levels) for new customers.
-• Leverage the model to aid loan approval decisions.
+* Develop a model to predict loan approval category (P1-P4 representing risk levels) for new customers.
+* Leverage the model to aid loan approval decisions.
 
 Data:
 • The dataset contains over 50,000 customer records with features including demographics, financial information, and loan history.
